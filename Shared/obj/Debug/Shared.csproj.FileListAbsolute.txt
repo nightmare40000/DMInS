@@ -1,0 +1,5 @@
+c:\users\nightmare\documents\visual studio 2012\Projects\Lab1-DMInS\Shared\bin\Debug\Shared.dll
+c:\users\nightmare\documents\visual studio 2012\Projects\Lab1-DMInS\Shared\bin\Debug\Shared.pdb
+c:\users\nightmare\documents\visual studio 2012\Projects\Lab1-DMInS\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+c:\users\nightmare\documents\visual studio 2012\Projects\Lab1-DMInS\Shared\obj\Debug\Shared.dll
+c:\users\nightmare\documents\visual studio 2012\Projects\Lab1-DMInS\Shared\obj\Debug\Shared.pdb

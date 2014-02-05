@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1-DMInS", "Lab1-DMInS\Lab1-DMInS.csproj", "{98171750-3469-429C-8047-7D89E2D7DA9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{722CDB48-2ED4-49AA-8ED9-75D6056CA14A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98171750-3469-429C-8047-7D89E2D7DA9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98171750-3469-429C-8047-7D89E2D7DA9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98171750-3469-429C-8047-7D89E2D7DA9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98171750-3469-429C-8047-7D89E2D7DA9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{722CDB48-2ED4-49AA-8ED9-75D6056CA14A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{722CDB48-2ED4-49AA-8ED9-75D6056CA14A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{722CDB48-2ED4-49AA-8ED9-75D6056CA14A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{722CDB48-2ED4-49AA-8ED9-75D6056CA14A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

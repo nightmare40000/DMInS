@@ -1,0 +1,11 @@
+c:\users\nightmare\documents\visual studio 2012\Projects\Lab1-DMInS\Lab1-DMInS\bin\Debug\Lab1-DMInS.exe.config
+c:\users\nightmare\documents\visual studio 2012\Projects\Lab1-DMInS\Lab1-DMInS\bin\Debug\Lab1-DMInS.exe
+c:\users\nightmare\documents\visual studio 2012\Projects\Lab1-DMInS\Lab1-DMInS\bin\Debug\Lab1-DMInS.pdb
+c:\users\nightmare\documents\visual studio 2012\Projects\Lab1-DMInS\Lab1-DMInS\obj\Debug\Lab1-DMInS.csprojResolveAssemblyReference.cache
+c:\users\nightmare\documents\visual studio 2012\Projects\Lab1-DMInS\Lab1-DMInS\obj\Debug\Lab1_DMInS.MainForm.resources
+c:\users\nightmare\documents\visual studio 2012\Projects\Lab1-DMInS\Lab1-DMInS\obj\Debug\Lab1_DMInS.Properties.Resources.resources
+c:\users\nightmare\documents\visual studio 2012\Projects\Lab1-DMInS\Lab1-DMInS\obj\Debug\Lab1-DMInS.csproj.GenerateResource.Cache
+c:\users\nightmare\documents\visual studio 2012\Projects\Lab1-DMInS\Lab1-DMInS\obj\Debug\Lab1-DMInS.exe
+c:\users\nightmare\documents\visual studio 2012\Projects\Lab1-DMInS\Lab1-DMInS\obj\Debug\Lab1-DMInS.pdb
+c:\users\nightmare\documents\visual studio 2012\Projects\Lab1-DMInS\Lab1-DMInS\bin\Debug\Shared.dll
+c:\users\nightmare\documents\visual studio 2012\Projects\Lab1-DMInS\Lab1-DMInS\bin\Debug\Shared.pdb
