@@ -41,14 +41,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cluster.cs" />
+    <Compile Include="Clusterizer.cs" />
     <Compile Include="ColorType.cs" />
     <Compile Include="Configuration.cs" />
     <Compile Include="Coords.cs" />
     <Compile Include="DisplayerFields.cs" />
+    <Compile Include="IClusterizer.cs" />
     <Compile Include="ImageCorrector.cs" />
     <Compile Include="LabelGroup.cs" />
+    <Compile Include="Parameters.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ResultInformation.cs" />
+    <Compile Include="StackOverflowException.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
