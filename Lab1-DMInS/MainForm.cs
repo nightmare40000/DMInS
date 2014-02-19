@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
-using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Windows.Forms;
@@ -91,7 +90,7 @@ namespace Lab1_DMInS
                 var color = Color.FromArgb(255, random.Next(255), random.Next(255), random.Next(255));
                 resultImage = ImageCorrector.SetColorToClusters(resultImage, cluster, color);
             }
-
+            
             _displayer.ShowResultImage(resultImage);
         }
 

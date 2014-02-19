@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
-using System.Windows.Forms;
 
 namespace Shared
 {
@@ -102,14 +100,7 @@ namespace Shared
             {
                 for (var j = 0; j < image.Height; j++)
                 {
-                    try
-                    {
                         Fill(image, labels, i, j, l++);
-                    }
-                    catch (System.StackOverflowException)
-                    {
-                        MessageBox.Show("adsgfsgsg");
-                    }
                 }
             }
         }
